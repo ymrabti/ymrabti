@@ -56,7 +56,7 @@ I'm a passionate **Full Stack Developer** focused on building modern web applica
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ymrabti&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![ymrabti trophies](https://github-profile-trophy.vercel.app/?username=ymrabti&theme=radical&row=1&column=6)
 
 </div>
 
@@ -69,6 +69,16 @@ I'm a passionate **Full Stack Developer** focused on building modern web applica
 [![Email](https://img.shields.io/badge/Email-younesmrabti50@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:younesmrabti50@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ymrabti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ymrabti)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/younes-mrabti)
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/ymrabti/ymrabti/main/assets/github-contribution-grid-snake-dark.svg)
 
 </div>
 
