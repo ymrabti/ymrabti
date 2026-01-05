@@ -43,11 +43,10 @@ I'm a passionate **Full Stack Developer** focused on building modern web applica
 
 <div align="center">
   
-![Younes's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymrabti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ymrabti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ymrabti&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ymrabti&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymrabti&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ymrabti&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -57,7 +56,7 @@ I'm a passionate **Full Stack Developer** focused on building modern web applica
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=ymrabti&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ymrabti&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -75,11 +74,11 @@ I'm a passionate **Full Stack Developer** focused on building modern web applica
 
 ---
 
-## 🐍 Contribution Graph
+## � Activity Graph
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/ymrabti/ymrabti/main/assets/github-contribution-grid-snake-dark.svg)
+[![Younes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ymrabti&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
