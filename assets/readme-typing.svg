@@ -1,0 +1,93 @@
+<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
+<svg xmlns='http://www.w3.org/2000/svg'
+    xmlns:xlink='http://www.w3.org/1999/xlink'
+    viewBox='0 0 1035 50'
+    style='background-color: #00000000;'
+    width='1035px' height='50px'>
+
+    
+                <path id='path0'>
+                            <!-- Single line -->
+                                <animate id='d0' attributeName='d' begin='0s;d5.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1035 ; m0,25 h1035 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Arial", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path0'>
+            👋 Hi, I’m Younes MRABTI
+        </textPath>
+    </text>
+        <path id='path1'>
+                            <!-- Single line -->
+                                <animate id='d1' attributeName='d' begin='d0.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1035 ; m0,25 h1035 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Arial", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path1'>
+            Full-stack developer passionate about building modern applications
+        </textPath>
+    </text>
+        <path id='path2'>
+                            <!-- Single line -->
+                                <animate id='d2' attributeName='d' begin='d1.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1035 ; m0,25 h1035 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Arial", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path2'>
+            Flutter, Dart, Node.js, React, and Angular.
+        </textPath>
+    </text>
+        <path id='path3'>
+                            <!-- Single line -->
+                                <animate id='d3' attributeName='d' begin='d2.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1035 ; m0,25 h1035 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Arial", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path3'>
+            I work on mobile apps (iOS/Android)
+        </textPath>
+    </text>
+        <path id='path4'>
+                            <!-- Single line -->
+                                <animate id='d4' attributeName='d' begin='d3.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1035 ; m0,25 h1035 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Arial", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path4'>
+            web platforms, and backend services with expertise in authentication
+        </textPath>
+    </text>
+        <path id='path5'>
+                            <!-- Single line -->
+                                <animate id='d5' attributeName='d' begin='d4.end'
+                    dur='6000ms' fill='remove'
+                    values='m0,25 h0 ; m0,25 h1035 ; m0,25 h1035 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
+                    </path>
+    <text font-family='"Arial", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path5'>
+            Check out my projects)](https://git.io/typing-svg
+        </textPath>
+    </text>
+</svg>
